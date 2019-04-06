@@ -1,0 +1,495 @@
+@media print
+{
+div.menu {
+	display: none;
+}
+}
+@media screen
+{
+body {
+	background: url("/images/nav/menu_bg.gif") repeat-y left top white; font: 9pt/11pt verdana, arial, "sans serif"; max-width: 680px; margin: 0 auto; font-size-adjust: none; font-stretch: normal;
+}
+body img {
+	width: 100%;
+	height: auto;
+}
+acronym {
+	border-bottom-color: silver; border-bottom-width: 1px; border-bottom-style: dotted;
+}
+p {
+	margin: 10px 25px;
+}
+p.cal_date {
+	margin: 10px 25px 0px; padding-bottom: 0px; font-weight: bold; text-decoration: underline;
+}
+p.hanging_indent {
+	text-indent: -1em; padding-top: 0px; padding-bottom: 0px; padding-left: 1em;
+}
+p.block {
+	padding: 10px; border: 1px solid black; border-image: none; width: 400px; margin-right: auto; margin-bottom: 0px; margin-left: auto; vertical-align: top; background-color: rgb(255, 255, 255);
+}
+h1 {
+	font: bold 14pt/16pt "Trebuchet MS", arial, "sans serif"; margin: 5px 25px 0; color: black; font-size-adjust: none; font-stretch: normal;
+}
+h2 {
+	background: rgb(255, 204, 51); font: bold 11pt/normal "Trebuchet MS", arial, "sans serif"; border: 1px solid black; border-image: none; color: black; padding-right: 5px; padding-left: 5px; margin-right: 25px; margin-left: 25px; font-size-adjust: none; font-stretch: normal;
+}
+h2.line {
+	background: white; border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor black; padding: 0px; border-image: none; margin-bottom: -5px;
+}
+h3 {
+	font: bold 10pt/normal "Trebuchet MS", arial, "sans serif"; color: black; margin-right: 25px; margin-left: 25px; font-size-adjust: none; font-stretch: normal;
+}
+h4 {
+	font: bold 8pt/normal arial, "ms sans serif"; color: black; margin-right: 25px; margin-left: 25px; font-size-adjust: none; font-stretch: normal;
+}
+img.inline {
+	margin: 0px 5px;
+}
+img.head {
+	width: 291px; height: 49px; margin-top: 3px; margin-bottom: 0px; margin-left: 3px;
+}
+img#banner {
+	margin: 10px 25px 0;
+	width: inherit;
+}
+div.subhead {
+	font: bold 9pt/normal verdana; width: 300px; text-align: left; color: rgb(255, 255, 255); margin-top: -15px; float: left; display: none; font-size-adjust: none; font-stretch: normal;
+}
+#about_bls div.subhead {
+	padding-left: 147px;
+}
+#about_psb div.subhead {
+	padding-left: 147px;
+}
+#admin div.subhead {
+	padding-left: 120px;
+}
+#computer div.subhead {
+	padding-left: 140px;
+}
+#outreach div.subhead {
+	padding-left: 160px;
+}
+#forms div.subhead {
+	padding-left: 120px;
+}
+#management div.subhead {
+	padding-left: 158px;
+}
+#procurement div.subhead {
+	padding-left: 160px;
+}
+#search div.subhead {
+	padding-left: 125px;
+}
+#security div.subhead {
+	padding-left: 130px;
+}
+#stats_econ div.subhead {
+	padding-left: 160px;
+}
+#training div.subhead {
+	padding-left: 132px;
+}
+#help div.subhead {
+	padding-left: 107px;
+}
+#generic div.subhead {
+	padding-left: 53px;
+}
+#das div.subhead {
+	padding-left: 107px;
+}
+#intranets div.subhead {
+	padding-left: 140px;
+}
+#links div.subhead {
+	padding-left: 120px;
+}
+cite a:link {
+	font-style: italic;
+}
+cite a:hover {
+	font-style: italic;
+}
+cite a:visited {
+	font-style: italic;
+}
+a:link {
+	font: 9pt/11pt verdana, arial, "sans serif"; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a:hover {
+	font: 9pt/11pt verdana, arial, "sans serif"; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a:visited {
+	font: 9pt/11pt verdana, arial, "sans serif"; color: rgb(128, 0, 128); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.menu:link {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.menu:hover {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.menu:visited {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.next:link {
+	font-size: xx-small; font-style: italic; text-decoration: none;
+}
+a.next:hover {
+	font-size: xx-small; font-style: italic; text-decoration: none;
+}
+a.next:visited {
+	font-size: xx-small; font-style: italic; text-decoration: none;
+}
+a.return:link {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; text-decoration: none;
+}
+a.return:hover {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; font-weight: bold; text-decoration: none;
+}
+a.return:visited {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; text-decoration: none;
+}
+a.footnote:link {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+a.footnote:hover {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+a.footnote:visited {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+table {
+	font: 9pt/11pt verdana, arial, "sans serif"; text-align: left; margin-top: 5px; font-size-adjust: none; font-stretch: normal;
+}
+table.info {
+	padding: 5px; margin-right: 25px; margin-left: 25px;
+}
+table.info th {
+	text-align: left; vertical-align: top;
+}
+table.info td {
+	text-align: left; padding-left: 10px;
+}
+table.flat {
+	background: black; margin: 25px;
+}
+table.flat th {
+	background: cornsilk;
+}
+table.flat td {
+	background: white; text-align: left;
+}
+table.menu td {
+	border: 1px solid rgb(0, 0, 0); border-image: none; text-align: center;
+}
+td.gourmet {
+	background: cornsilk; text-align: center; color: red; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;
+}
+th.days {
+	text-align: center; color: red; font-family: Arial, Helvetica, sans-serif; font-size: x-large; font-weight: normal;
+}
+dt {
+	font-weight: bold; margin-left: 25px;
+}
+dd {
+	margin-right: 60px;
+}
+ul {
+	list-style-image: url("/images/nav/bullet_color.gif");
+}
+ul ul {
+	list-style-image: url("/images/nav/bullet_solid.gif");
+}
+ul ol {
+	list-style-image: none;
+}
+li {
+	margin-right: 25px;
+}
+ol {
+	margin-right: 25px; margin-left: 50px;
+}
+.olla {
+	list-style-type: lower-alpha;
+}
+.olua {
+	list-style-type: upper-alpha;
+}
+.byline {
+	font: 8pt/9pt arial, "ms sans serif"; color: rgb(51, 51, 51); margin-right: 25px; margin-left: 35px; font-size-adjust: none; font-stretch: normal;
+}
+.next {
+	text-align: right; font-size: xx-small;
+}
+.note {
+	font: 8pt/11pt "arial,ms sans serif"; margin: 0px 25px; color: rgb(105, 105, 105); font-size-adjust: none; font-stretch: normal;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.indent {
+	margin-left: 75px;
+}
+.justify {
+	text-align: justify;
+}
+.left {
+	text-align: left;
+}
+.u {
+	text-decoration: underline;
+}
+.date {
+	font: 8pt/10pt arial, "ms sans serif"; color: navy; font-size-adjust: none; font-stretch: normal;
+}
+.footer {
+	font: 8pt/normal Arial; margin: 30px 10px 0px; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;
+}
+div.featured_top {
+	background: url("/images/nav/featured_links.gif") no-repeat left top; margin: 0px; height: 15px; text-align: center; color: navy; font-size: 8pt; font-weight: bold; vertical-align: middle;
+}
+div.addlink_top {
+	background: url("/images/nav/add_links.gif") no-repeat left top; margin: 0px; height: 15px; text-align: center; color: navy; font-size: 8pt; font-weight: bold; vertical-align: middle;
+}
+div.featured {
+	margin: 0px; padding: 10px 5px; border: thin solid rgb(255, 204, 51); border-image: none;
+}
+div.coloredbox {
+	background: cornsilk; border: 1px solid black; border-image: none;
+}
+.new {
+	color: red; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold;
+}
+#bls-ofTheMonth-feature {
+=09
+}
+#bls-ofTheMonth-feature h2 {
+	padding: 5px; overflow: auto; margin-top: 1px; background-color: =
+rgb(255, 204, 51);
+}
+#bls-ofTheMonth-feature h2 a {
+	color: rgb(0, 0, 216); font-family: "Trebuchet MS", arial, "sans serif"; font-size: 11pt; font-weight: bold;
+}
+#bls-ofTheMonth-feature h2 a:hover {
+	text-decoration: underline;
+}
+#bls-ofTheMonth-feature h2 a:focus {
+	text-decoration: underline;
+}
+#bls-ofTheMonth-feature h2 img.image {
+	margin: 0px 0px 10px 10px; float: right; display: block;
+}
+#bls-ofTheMonth-feature .title-text {
+	padding: 0px; left: 8px; top: -21px;
+}
+#bls-ofTheMonth-feature #title-text-box1 {
+	background: url("/images/nav/left_head.gif") no-repeat left top rgba(0, 0, 0, 0); width: 40px; height: 25px; text-align: left; float: left; display: inline;
+}
+#bls-ofTheMonth-feature .title-text-box2 {
+	background: url("/images/nav/left_head.gif") no-repeat -4px top rgba(0, 0, 0, 0); width: 123px; height: 25px; margin-left: -10px; float: left; display: inline;
+}
+}
+.menutype {
+	color: red; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold;
+}
+.notice {
+	color: red; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold;
+}
+@media print
+{
+body {
+	font: 9pt/11pt verdana, arial, "sans serif"; padding-left: 0px; margin-left: 0px; font-size-adjust: none; font-stretch: normal; background-image: none;
+}
+h1 {
+	font: bold 14pt/16pt "Trebuchet MS", arial, "sans serif"; margin: 15px 0px 10px; color: black; font-size-adjust: none; font-stretch: normal;
+}
+h2 {
+	background: rgb(255, 204, 51); font: bold 11pt/normal "Trebuchet MS", arial, "sans serif"; border: 1px solid black; border-image: none; color: black; padding-right: 5px; padding-left: 5px; font-size-adjust: none; font-stretch: normal;
+}
+h2.line {
+	background: white; border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor black; padding: 0px; border-image: none; margin-bottom: -5px;
+}
+h3 {
+	font: bold 10pt/normal "Trebuchet MS", arial, "sans serif"; color: black; margin-right: 25px; margin-bottom: -5px; margin-left: 25px; font-size-adjust: none; font-stretch: normal;
+}
+h4 {
+	font: bold 8pt/normal arial, "ms sans serif"; color: black; margin-right: 25px; margin-left: 25px; font-size-adjust: none; font-stretch: normal;
+}
+table.flat {
+	border: 2px solid black; border-image: none; border-collapse: collapse;
+}
+table.flat td {
+	border: 2px solid black; border-image: none;
+}
+table.flat th {
+	border: 2px solid black; border-image: none;
+}
+img.inline {
+	margin: 0px 5px;
+}
+img.head {
+	width: 291px; height: 49px; margin-top: 3px; margin-bottom: 0px; margin-left: 3px;
+}
+div.subhead {
+	font: bold 9pt/normal verdana; width: 300px; text-align: left; color: rgb(0, 0, 0); margin-top: -15px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+dt {
+	font-weight: bold; margin-left: 25px;
+}
+dd {
+	margin-right: 60px;
+}
+#about_bls div.subhead {
+	padding-left: 147px;
+}
+#about_psb div.subhead {
+	padding-left: 147px;
+}
+#admin div.subhead {
+	padding-left: 120px;
+}
+#computer div.subhead {
+	padding-left: 140px;
+}
+#outreach div.subhead {
+	padding-left: 160px;
+}
+#forms div.subhead {
+	padding-left: 120px;
+}
+#management div.subhead {
+	padding-left: 158px;
+}
+#procurement div.subhead {
+	padding-left: 160px;
+}
+#search div.subhead {
+	padding-left: 125px;
+}
+#security div.subhead {
+	padding-left: 130px;
+}
+#stats_econ div.subhead {
+	padding-left: 160px;
+}
+#training div.subhead {
+	padding-left: 132px;
+}
+#help div.subhead {
+	padding-left: 107px;
+}
+#generic div.subhead {
+	padding-left: 53px;
+}
+#das div.subhead {
+	padding-left: 107px;
+}
+#intranets div.subhead {
+	padding-left: 140px;
+}
+#links div.subhead {
+	padding-left: 120px;
+}
+a:link {
+	font: 9pt/11pt verdana, arial, "sans serif"; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a:hover {
+	font: 9pt/11pt verdana, arial, "sans serif"; text-decoration: underline; font-size-adjust: none; font-stretch: normal;
+}
+a:visited {
+	font: 9pt/11pt verdana, arial, "sans serif"; color: rgb(128, 0, 128); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.menu:link {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.menu:hover {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.menu:visited {
+	line-height: 14pt; font-size: 10pt; font-weight: bold; text-decoration: none;
+}
+a.return:link {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; text-decoration: none;
+}
+a.return:hover {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; font-weight: bold; text-decoration: none;
+}
+a.return:visited {
+	color: blue; line-height: 9pt; font-family: verdana, arial, "sans serif"; font-size: 8pt; text-decoration: none;
+}
+a.footnote:link {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+a.footnote:hover {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+a.footnote:visited {
+	color: blue; font-size: xx-small; vertical-align: super;
+}
+ul {
+	list-style-image: url("/images/nav/bullet_color.gif");
+}
+ul ul {
+	list-style-image: url("/images/nav/bullet_solid.gif");
+}
+ul ol {
+	list-style-image: none;
+}
+li {
+	margin-right: 25px;
+}
+ol {
+	margin-right: 25px; margin-left: 50px;
+}
+.olla {
+	list-style-type: lower-alpha;
+}
+.olua {
+	list-style-type: upper-alpha;
+}
+.byline {
+	font: 8pt/9pt arial, "ms sans serif"; color: rgb(51, 51, 51);
+margin-right: 25px; margin-left: 35px; font-size-adjust: none;
+font-stretch: normal;
+}
+.note {
+	font: 8pt/11pt "arial,ms sans serif";
+	margin: 0 25px;
+	color: rgb(105, 105, 105);
+	font-size-adjust: none;
+	font-stretch: normal;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.indent {
+	margin-left: 75px;
+}
+.justify {
+	text-align: justify;
+}
+.left {
+	text-align: left;
+}
+.u {
+	text-decoration: underline;
+}
+.date {
+	font: 8pt/10pt arial, "ms sans serif"; color: navy;
+	margin-left: 10px;
+	font-size-adjust: none; font-stretch: normal;
+}
+.footer {
+	font: 8pt/normal Arial; margin: 30px 10px 0px; color: rgb(51, 51, 51);
+font-size-adjust: none; font-stretch: normal;
+}
+}
